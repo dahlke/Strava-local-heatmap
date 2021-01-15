@@ -1,4 +1,5 @@
 gpx/*.gpx
+gpx/*.gz
 tiles/
 venv/
 *.png
